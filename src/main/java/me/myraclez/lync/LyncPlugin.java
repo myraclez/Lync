@@ -24,7 +24,7 @@ public final class LyncPlugin extends SimplePlugin {
 	@Override
 	protected void onPluginStart() {
 		System.out.println("Hello World");
-		System.out.println("Hello, " + (1 + 1) + "is his you?");
+		System.out.println("Hello, " + (1 + 1) + "result");
 	}
 
 	/**
